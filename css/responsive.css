@@ -1,0 +1,32 @@
+@media (max-width: 991px) {
+    #banner{
+        margin-bottom: 100px;
+    }
+    #banner .discount{
+        top: 5px;
+        right: 5px;
+    }
+    #facilities .facility_text{
+        width: 100%;
+        margin: 10px 50px;
+    }
+    #mixitup .details{
+        margin: 10px 100px;
+    }
+    #drinks .drink{
+        margin-bottom: 20px;
+        margin-left: 50px;
+    }
+    #featured_products .details{
+        margin: 10px 100px;
+    }
+
+    #review .reviewCnt{
+      margin: 10px 30px;
+
+    }
+    #news .last{
+        margin-bottom: 300px;
+    }
+
+}
